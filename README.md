@@ -1,5 +1,5 @@
 # Interesting Adventure Game
-This is an adventure game I made using Unreal Engine 4. You can see an overview of this game below. I design different types of enemies and game environment to create a sky island advanture. Enjoy the game!
+This is an adventure game I made using Unreal Engine 4. You can see an overview of this game below. I design different types of enemies and game environment to create a sky island adventure. You need to find the end room to pass the game. However, be careful with the monsters on the road. Collect crystals to increase your game score. Enjoy the game!
 
 ## Overview of Game Pictures
 
