@@ -6,6 +6,7 @@ This is an adventure game I made using Unreal Engine 4. You can see an overview 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108433-9a391374-6f77-438b-9131-f7d4315914bf.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108182-059d7b02-868e-4500-926e-b70d6009d0b9.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108497-9c8f9ba8-a314-4958-9978-37f31145dc38.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108397-df041ff7-9062-4adb-a047-b1e8d5c3af3f.png">
 
 ### Level Layout
 
@@ -27,7 +28,6 @@ This is an adventure game I made using Unreal Engine 4. You can see an overview 
 ### Trap Witch
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108374-000962ad-3680-4f10-8136-e998729289f5.png">
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108397-df041ff7-9062-4adb-a047-b1e8d5c3af3f.png">
 
 ### Items
 
