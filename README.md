@@ -1,5 +1,5 @@
 # Interesting Adventure Game
-This is an adventure game I made using Unreal Engine 4. You can see an overview of this game below. I design different types of enemies and set my unique UI. Enjoy the game!
+This is an adventure game I made using Unreal Engine 4. You can see an overview of this game below. I design different types of enemies and game environment to create a sky island advanture. Enjoy the game!
 
 ## Overview of Game Pictures
 
