@@ -13,30 +13,30 @@ This is an adventure game I made using Unreal Engine 4. You can see an overview 
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164107751-45a42a77-033e-47a9-a73e-6f9f213f359c.png">
 
-### skeleton warrior
+### Skeleton Warrior
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164107966-29aabece-d08e-46ab-8be2-1aaf83d82c5d.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108028-9ccee021-5915-4bd3-a9ac-172e6e8e2968.png">
 
-### skeleton bomb-man
+### Skeleton Bomb-man
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108108-92163052-ac03-4f70-801a-bea3f7fb66b7.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108182-059d7b02-868e-4500-926e-b70d6009d0b9.png">
 
-### dragon
+### Dragon
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108267-d21ee4a1-1453-4427-83c0-593bff23a049.png">
 
-### trap witch
+### Trap Witch
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108374-000962ad-3680-4f10-8136-e998729289f5.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108397-df041ff7-9062-4adb-a047-b1e8d5c3af3f.png">
 
-### end room
+### End Room
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108599-a5d13c86-7d5c-41f7-bc34-537ac3ff04e3.png">
 
-### death UI
+### Death UI
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108646-0a126502-5651-4b15-a2fa-9ac68ba027b4.png">
 
