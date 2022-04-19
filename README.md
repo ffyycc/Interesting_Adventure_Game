@@ -8,7 +8,6 @@ This is an adventure game I made using Unreal Engine 4. You can see an overview 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108521-6fd1116e-f95d-41da-b722-468302a0c055.png">
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164108555-7cd62e89-7c74-4de5-b877-d5e356c0cf76.png">
 
-
 ### Level Layout
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/55035176/164107751-45a42a77-033e-47a9-a73e-6f9f213f359c.png">
